@@ -82,7 +82,7 @@ function App() {
     >
       <Row style={{ height: "100vh" }} justify="center" align="middle">
         <Row
-          gutter={24}
+        gutter={24}
           style={{
             width: 1000,
             minHeight: 400,
